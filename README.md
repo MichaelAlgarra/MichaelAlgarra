@@ -1,7 +1,7 @@
 # About Me 
-My name is Michael Algarra a Biomedical Engineering student with a concentration in Bioinformatics at Drexel University.  
-I’m interested in Bioinformatics and Data Analytics. Specifically I enjoy programming with statistics and data mining.  
-I’m currently learning how to analyze genetic biological data, as well as learning how to apply complex statistics in programming.   
+My name is Michael Algarra a Biomedical Engineering graduate with a concentration in Bioinformatics from Drexel University.  
+I’m interested in Bioinformatics and Data Analytics. Specifically I enjoy programming with statistics and data mining.
+I'm currently working at Merck & Co. as a Data Scientist Contractor.
 I’m looking to collaborate on working with Biological Data including DNA methylation data, Statistical analyses on data, and working with complex Major League Baseball Team data.  
 
 Find me:
